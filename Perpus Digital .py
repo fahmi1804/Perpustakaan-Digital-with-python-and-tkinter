@@ -689,7 +689,7 @@ class App(tk.Tk):
     def cek_dan_kirim_pengingat_dialog(self):
         if not HAS_EMAIL: return
         # Cek config dulu
-        sender_email = "delphoxystore@gmail.com"; password = "zzza gosc xwul nxqe"
+        sender_email = "emmailmu@disini"; password = "(App Passwrod Disini"
         # Prioritize config file if exists
         if os.path.exists(CONFIG_FILE):
             try:

@@ -629,7 +629,7 @@ class App(tk.Tk):
                 # 4. [RAHASIANYA DISINI] PAKSA TEKAN ENTER
                 # Kadang pywhatkit cuma ngetik doang. Kita paksa tekan Enter pake pyautogui.
                 time.sleep(2)            # Jeda dikit biar aman
-                pyautogui.press('enter') # "JEGREG!" Tekan Enter otomatis
+                pyautogui.press('enter') # Tekan Enter otomatis
                 
                 count_sukses += 1
                 
@@ -644,7 +644,7 @@ class App(tk.Tk):
     def cek_dan_kirim_pengingat_dialog(self):
         if not HAS_EMAIL: return
         # Cek config dulu
-        sender_email = "delphoxystore@gmail.com"; password = "zzza gosc xwul nxqe"
+        sender_email = "email@com"; password = "app password disini"
         # Prioritize config file if exists
         if os.path.exists(CONFIG_FILE):
             try:
@@ -889,4 +889,5 @@ class App(tk.Tk):
 
 if __name__ == "__main__":
     app = App()
+
     app.mainloop()

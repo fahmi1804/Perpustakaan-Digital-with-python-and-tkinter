@@ -1,0 +1,7 @@
+BUKTI PEMINJAMAN
+================
+Tanggal Pinjam: 03 July 2025
+Jatuh Tempo: 06 July 2025
+
+Peminjam: Adi Nugroho (202501074)
+Buku: Struktur Data Pemrograman

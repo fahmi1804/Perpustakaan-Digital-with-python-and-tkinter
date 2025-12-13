@@ -1,0 +1,996 @@
+Judul,Penulis,Stok,Sedia,Rak
+Struktur Data Pemrograman,Dr. Codi,10,10,-
+Dasar-Dasar Python,Dr. PyPro,15,15,-
+Panduan Lengkap JavaScript,JS Master,25,24,-
+Struktur Data dalam C++,Prof. Algo,12,12,-
+Memulai dengan Java,Java Guru,30,30,-
+Pengenalan Machine Learning,AI Nstein,8,8,-
+Jaringan Komputer untuk Pemula,Neti Work,18,18,-
+Manajemen Database SQL,Data Lord,22,22,-
+Belajar HTML & CSS dari Nol,Web Dev,35,35,-
+Algoritma dan Pemrograman,Dr. Codi,11,11,-
+Sistem Operasi Modern,Kernel Hacker,9,9,-
+Cloud Computing dengan AWS,Cloudia,14,14,-
+Keamanan Siber 101,Cyber Safe,7,7,-
+Pemrograman Berorientasi Objek,Objectiva,16,16,-
+Pengembangan Aplikasi Android,Andy Roid,20,20,-
+Dasar-Dasar iOS Development,Apple Fan,17,17,-
+ReactJS untuk Front-End,Reacto Dev,24,24,-
+Node.js untuk Back-End,Node Ninja,21,21,-
+Analisis Data dengan Pandas,Panda User,13,13,-
+Visualisasi Data dengan Matplotlib,Plot Master,19,19,-
+Deep Learning dengan TensorFlow,Tensor Flow,6,6,-
+Pengenalan Kecerdasan Buatan,AI Expert,10,10,-
+Belajar Bahasa Go,Go Lang,23,23,-
+Pemrograman Fungsional dengan Haskell,Func Prog,5,5,-
+Ruby on Rails Cepat,Ruby Gem,26,26,-
+Dasar-Dasar PHP & MySQL,PHPower,28,28,-
+Manajemen Proyek Agile,Scrum Master,33,33,-
+UI/UX Design untuk Aplikasi,Desi Gner,27,27,-
+Pengujian Perangkat Lunak,QA Tester,29,29,-
+Arsitektur Mikroservis,Micro Arch,4,4,-
+Version Control dengan Git,Git Hub,40,40,-
+Containerization dengan Docker,Docker Captain,38,38,-
+Orkestrasi dengan Kubernetes,Kube Admiral,36,36,-
+Continuous Integration/Continuous Deployment,CI/CD Pro,31,31,-
+Dasar-Dasar Linux,Tux Penguin,37,37,-
+Skrip Bash untuk Otomasi,Shell Script,32,32,-
+Pemrograman Game dengan Unity,Unity Dev,34,34,-
+Grafika Komputer dengan OpenGL,Graphix,39,39,-
+Teori Komputasi,Alan Turing Jr,3,3,-
+Sejarah Internet,Vint Cerf II,2,2,-
+Etika dalam Teknologi,Ethica,1,1,-
+Belajar Assembly,Low Level,41,41,-
+Desain Pola Perangkat Lunak,Gang of Four II,42,42,-
+Rekayasa Perangkat Lunak,Ian Sommerville Jr,43,43,-
+Matematika Diskrit untuk Komputer,Discrete Math,44,44,-
+Statistika untuk Ilmu Data,Statistica,45,45,-
+Pemrosesan Bahasa Alami,NLP Guru,46,46,-
+Visi Komputer dengan OpenCV,CV Expert,47,47,-
+Dasar-Dasar Kriptografi,Crypto Logic,48,48,-
+Jaringan Saraf Tiruan,Neura Net,49,49,-
+Reinforcement Learning,RL Agent,50,50,-
+Pemrograman Paralel dengan CUDA,Nvidia Fan,51,51,-
+Dasar-Dasar Quantum Computing,Quantum Bit,52,52,-
+Manajemen Memori,Memory Manager,53,53,-
+Kompilator: Prinsip dan Praktek,Dragon Author,54,54,-
+Sistem Terdistribusi,Distributed Sys,55,55,-
+Interaksi Manusia dan Komputer,HCI Expert,56,56,-
+Pengembangan Web dengan Django,D'Jango,57,57,-
+Framework CSS: Bootstrap,Boot Strapper,58,58,-
+Framework CSS: Tailwind,Tail Winder,59,59,-
+Vue.js Progresif,Vue Master,60,60,-
+Angular untuk Enterprise,Angular Dev,61,61,-
+State Management dengan Redux,Redux Store,62,62,-
+GraphQL API,Graph QL,63,63,-
+Testing dengan Jest,Jest Runner,64,64,-
+Membangun API dengan Express.js,Express Way,65,65,-
+NoSQL dengan MongoDB,Mongo DB,66,66,-
+Caching dengan Redis,Redi Set,67,67,-
+Message Queue dengan RabbitMQ,Rabbit Hole,68,68,-
+Serverless Architecture,Server Less,69,69,-
+DevOps Handbook,DevOp Pro,70,70,-
+Membangun Pipa Data,Data Pipe,71,71,-
+Big Data dengan Spark,Sparky,72,72,-
+Internet of Things (IoT),IoT Connect,73,73,-
+Blockchain dan Cryptocurrency,Block Chain,74,74,-
+Dasar-Dasar Swift,Swift Coder,75,75,-
+Pemrograman Kotlin untuk Android,Kotlin Dev,76,76,-
+Flutter untuk Aplikasi Cross-Platform,Flutter Fly,77,77,-
+Xamarin untuk Mobile,Xam Dev,78,78,-
+Progressive Web Apps (PWA),PWA Builder,79,79,-
+WebAssembly: Masa Depan Web,Wasm Star,80,80,-
+Cyber Forensics,Forensic File,81,81,-
+Ethical Hacking,White Hat,82,82,-
+Manajemen Risiko TI,Risk Manager,83,83,-
+ITIL Foundation,ITIL Expert,84,84,-
+Dasar-Dasar COBIT,COBIT Pro,85,85,-
+Analisis Bisnis untuk TI,Business Analyst,86,86,-
+ERP dengan SAP,SAP Guru,87,87,-
+CRM dengan Salesforce,Sales Force,88,88,-
+Business Intelligence dengan PowerBI,Power User,89,89,-
+Data Warehousing,Warehouse Arch,90,90,-
+"ETL: Extract, Transform, Load",ETL Master,91,91,-
+Machine Learning Operations (MLOps),MLOps Eng,92,92,-
+Natural Language Understanding,NLU Pro,93,93,-
+Computer Vision Lanjutan,CV Master,94,94,-
+Pengenalan Robotika,Robo Arm,95,95,-
+Sistem Kontrol,Control Sys,96,96,-
+Pemrosesan Sinyal Digital,Signal Proc,97,97,-
+Teori Informasi,Claude Shannon Jr,98,98,-
+Bioinformatika,Bio Coder,99,99,-
+Komputasi Awan Hibrida,Hybrid Cloud,100,100,-
+Dasar-Dasar Algoritma Genetika,Evo Algo,101,101,-
+Logika Fuzzy,Fuzzy Logic,102,102,-
+Pemrograman Rust,Rustacean,103,103,-
+Elixir dan Phoenix,Elixir Alchemist,104,104,-
+Scala untuk Big Data,Scala Spark,105,105,-
+F# untuk Pemrograman Fungsional,FSharp Dev,106,106,-
+Clojure dan Imutabilitas,Clojure Conj,107,107,-
+Membangun Chatbot,Bot Builder,108,108,-
+Augmented Reality (AR),AR Viewer,109,109,-
+Virtual Reality (VR),VR World,110,110,-
+Manajemen Produk Digital,Product Owner,111,111,-
+Growth Hacking,Growth Hacker,112,112,-
+Digital Marketing,Digi Marketer,113,113,-
+SEO untuk Pemula,SEO Rank,114,114,-
+Content Strategy,Content King,115,115,-
+Public Speaking untuk Tech,Tech Speaker,116,116,-
+Menulis Dokumentasi Teknis,Doc Writer,117,117,-
+Negosiasi untuk Insinyur,Nego Engineer,118,118,-
+Manajemen Keuangan Pribadi,Finance Bro,119,119,-
+Investasi Saham untuk Pemula,Stock Trader,120,120,-
+Memahami Ekonomi Digital,Digital Econ,121,121,-
+Pengantar Filsafat Stoik,Stoic Sage,122,122,-
+Sejarah Teknologi,Tech Histo,123,123,-
+Biografi Steve Jobs,Walter Isaacson II,124,124,-
+Biografi Elon Musk,Ashlee Vance II,125,125,-
+Zero to One,Peter Thiel II,126,126,-
+The Lean Startup,Eric Ries II,127,127,-
+Hooked: How to Build Habit-Forming Products,Nir Eyal II,128,128,-
+"Thinking, Fast and Slow",Daniel Kahneman II,129,129,-
+Sapiens: A Brief History of Humankind,Yuval Noah Harari II,130,130,-
+Homo Deus: A Brief History of Tomorrow,Yuval Noah Harari II,131,131,-
+21 Lessons for the 21st Century,Yuval Noah Harari II,132,132,-
+The Power of Habit,Charles Duhigg II,133,133,-
+Atomic Habits,James Clear II,134,134,-
+Deep Work,Cal Newport II,135,135,-
+Digital Minimalism,Cal Newport II,136,136,-
+The Pragmatic Programmer,Andrew Hunt II,137,137,-
+Clean Code,Robert C. Martin II,138,138,-
+Clean Architecture,Robert C. Martin II,139,139,-
+The Mythical Man-Month,Frederick Brooks Jr,140,140,-
+Design Patterns,Erich Gamma II,141,141,-
+Refactoring,Martin Fowler II,142,142,-
+Code Complete,Steve McConnell II,143,143,-
+Cracking the Coding Interview,Gayle Laakmann McDowell II,144,144,-
+Introduction to Algorithms,Thomas H. Cormen II,145,145,-
+Grokking Algorithms,Aditya Bhargava II,146,146,-
+Structure and Interpretation of Computer Programs,Harold Abelson II,147,147,-
+The C Programming Language,Brian W. Kernighan II,148,148,-
+Effective Java,Joshua Bloch II,149,149,-
+Python Crash Course,Eric Matthes II,150,150,-
+Automate the Boring Stuff with Python,Al Sweigart II,151,151,-
+Eloquent JavaScript,Marijn Haverbeke II,152,152,-
+You Don't Know JS,Kyle Simpson II,153,153,-
+Learning Web Design,Jennifer Robbins II,154,154,-
+Don't Make Me Think,Steve Krug II,155,155,-
+The Design of Everyday Things,Don Norman II,156,156,-
+Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days,Jake Knapp II,157,157,-
+Measure What Matters,John Doerr II,158,158,-
+Good to Great,Jim Collins II,159,159,-
+Built to Last,Jim Collins II,160,160,-
+The Innovator's Dilemma,Clayton M. Christensen II,161,161,-
+Crossing the Chasm,Geoffrey A. Moore II,162,162,-
+The Hard Thing About Hard Things,Ben Horowitz II,163,163,-
+Rework,Jason Fried II,164,164,-
+Getting Things Done,David Allen II,165,165,-
+The 7 Habits of Highly Effective People,Stephen R. Covey II,166,166,-
+How to Win Friends and Influence People,Dale Carnegie II,167,167,-
+Think and Grow Rich,Napoleon Hill II,168,168,-
+The Richest Man in Babylon,George S. Clason II,169,169,-
+Man's Search for Meaning,Viktor E. Frankl II,170,170,-
+The Alchemist,Paulo Coelho II,171,171,-
+To Kill a Mockingbird,Harper Lee II,172,172,-
+1984,George Orwell II,173,173,-
+Animal Farm,George Orwell II,174,174,-
+The Great Gatsby,F. Scott Fitzgerald II,175,175,-
+Brave New World,Aldous Huxley II,176,176,-
+The Lord of the Rings,J.R.R. Tolkien II,177,177,-
+The Hobbit,J.R.R. Tolkien II,178,178,-
+Harry Potter and the Sorcerer's Stone,J.K. Rowling II,179,179,-
+A Game of Thrones,George R.R. Martin II,180,180,-
+Dune,Frank Herbert II,181,181,-
+Foundation,Isaac Asimov II,182,182,-
+"I, Robot",Isaac Asimov II,183,183,-
+Do Androids Dream of Electric Sheep?,Philip K. Dick II,184,184,-
+Neuromancer,William Gibson II,185,185,-
+Snow Crash,Neal Stephenson II,186,186,-
+The Hitchhiker's Guide to the Galaxy,Douglas Adams II,187,187,-
+Fahrenheit 451,Ray Bradbury II,188,188,-
+Ender's Game,Orson Scott Card II,189,189,-
+The Martian,Andy Weir II,190,190,-
+Project Hail Mary,Andy Weir II,191,191,-
+Ready Player One,Ernest Cline II,192,192,-
+The Hunger Games,Suzanne Collins II,193,193,-
+The Da Vinci Code,Dan Brown II,194,194,-
+Angels & Demons,Dan Brown II,195,195,-
+The Girl with the Dragon Tattoo,Stieg Larsson II,196,196,-
+Gone Girl,Gillian Flynn II,197,197,-
+The Silent Patient,Alex Michaelides II,198,198,-
+Where the Crawdads Sing,Delia Owens II,199,199,-
+Educated,Tara Westover II,200,200,-
+Becoming,Michelle Obama II,201,201,-
+The Diary of a Young Girl,Anne Frank II,202,202,-
+Walden,Henry David Thoreau II,203,203,-
+On the Origin of Species,Charles Darwin II,204,204,-
+A Brief History of Time,Stephen Hawking II,205,205,-
+Cosmos,Carl Sagan II,206,206,-
+The Selfish Gene,Richard Dawkins II,207,207,-
+The God Delusion,Richard Dawkins II,208,208,-
+Freakonomics,Steven D. Levitt II,209,209,-
+Superintelligence,Nick Bostrom II,210,210,-
+Life 3.0,Max Tegmark II,211,211,-
+The Master Algorithm,Pedro Domingos II,212,212,-
+Weapons of Math Destruction,Cathy O'Neil II,213,213,-
+Algorithms to Live By,Brian Christian II,214,214,-
+The Signal and the Noise,Nate Silver II,215,215,-
+Nudge,Richard H. Thaler II,216,216,-
+Misbehaving,Richard H. Thaler II,217,217,-
+The Black Swan,Nassim Nicholas Taleb II,218,218,-
+Antifragile,Nassim Nicholas Taleb II,219,219,-
+Fooled by Randomness,Nassim Nicholas Taleb II,220,220,-
+Outliers,Malcolm Gladwell II,221,221,-
+The Tipping Point,Malcolm Gladwell II,222,222,-
+Blink,Malcolm Gladwell II,223,223,-
+David and Goliath,Malcolm Gladwell II,224,224,-
+Talking to Strangers,Malcolm Gladwell II,225,225,-
+Quiet: The Power of Introverts,Susan Cain II,226,226,-
+Grit: The Power of Passion and Perseverance,Angela Duckworth II,227,227,-
+Mindset: The New Psychology of Success,Carol S. Dweck II,228,228,-
+Flow: The Psychology of Optimal Experience,Mihaly Csikszentmihalyi II,229,229,-
+Daring Greatly,Brené Brown II,230,230,-
+The Gifts of Imperfection,Brené Brown II,231,231,-
+Start with Why,Simon Sinek II,232,232,-
+Leaders Eat Last,Simon Sinek II,233,233,-
+The Infinite Game,Simon Sinek II,234,234,-
+Extreme Ownership,Jocko Willink II,235,235,-
+The 4-Hour Workweek,Timothy Ferriss II,236,236,-
+The $100 Startup,Chris Guillebeau II,237,237,-
+Rich Dad Poor Dad,Robert T. Kiyosaki II,238,238,-
+The Intelligent Investor,Benjamin Graham II,239,239,-
+A Random Walk Down Wall Street,Burton Malkiel II,240,240,-
+The Millionaire Next Door,Thomas J. Stanley II,241,241,-
+Your Money or Your Life,Vicki Robin II,242,242,-
+I Will Teach You to Be Rich,Ramit Sethi II,243,243,-
+The Simple Path to Wealth,JL Collins II,244,244,-
+The Total Money Makeover,Dave Ramsey II,245,245,-
+Unshakeable,Tony Robbins II,246,246,-
+MONEY Master the Game,Tony Robbins II,247,247,-
+The 48 Laws of Power,Robert Greene II,248,248,-
+The Art of War,Sun Tzu II,249,249,-
+The Prince,Niccolò Machiavelli II,250,250,-
+Meditations,Marcus Aurelius II,251,251,-
+Letters from a Stoic,Seneca II,252,252,-
+Discourses,Epictetus II,253,253,-
+Beyond Good and Evil,Friedrich Nietzsche II,254,254,-
+Thus Spoke Zarathustra,Friedrich Nietzsche II,255,255,-
+The Republic,Plato II,256,256,-
+Nicomachean Ethics,Aristotle II,257,257,-
+Critique of Pure Reason,Immanuel Kant II,258,258,-
+The World as Will and Representation,Arthur Schopenhauer II,259,259,-
+Being and Time,Martin Heidegger II,260,260,-
+Nausea,Jean-Paul Sartre II,261,261,-
+The Stranger,Albert Camus II,262,262,-
+The Myth of Sisyphus,Albert Camus II,263,263,-
+One Hundred Years of Solitude,Gabriel García Márquez II,264,264,-
+Love in the Time of Cholera,Gabriel García Márquez II,265,265,-
+The House of the Spirits,Isabel Allende II,266,266,-
+Like Water for Chocolate,Laura Esquivel II,267,267,-
+Don Quixote,Miguel de Cervantes II,268,268,-
+War and Peace,Leo Tolstoy II,269,269,-
+Anna Karenina,Leo Tolstoy II,270,270,-
+Crime and Punishment,Fyodor Dostoevsky II,271,271,-
+The Brothers Karamazov,Fyodo Dostoevsky II,272,272,-
+Notes from Underground,Fyodor Dostoevsky II,273,273,-
+The Idiot,Fyodor Dostoevsky II,274,274,-
+Dead Souls,Nikolai Gogol II,275,275,-
+Fathers and Sons,Ivan Turgenev II,276,276,-
+Moby Dick,Herman Melville II,277,277,-
+The Adventures of Huckleberry Finn,Mark Twain II,278,278,-
+The Scarlet Letter,Nathaniel Hawthorne II,279,279,-
+Leaves of Grass,Walt Whitman II,280,280,-
+"Walden; or, Life in the Woods",Henry David Thoreau II,281,281,-
+The Sound and the Fury,William Faulkner II,282,282,-
+As I Lay Dying,William Faulkner II,283,283,-
+The Grapes of Wrath,John Steinbeck II,284,284,-
+Of Mice and Men,John Steinbeck II,285,285,-
+East of Eden,John Steinbeck II,286,286,-
+For Whom the Bell Tolls,Ernest Hemingway II,287,287,-
+The Old Man and the Sea,Ernest Hemingway II,288,288,-
+A Farewell to Arms,Ernest Hemingway II,289,289,-
+The Sun Also Rises,Ernest Hemingway II,290,290,-
+Slaughterhouse-Five,Kurt Vonnegut II,291,291,-
+Cat's Cradle,Kurt Vonnegut II,292,292,-
+Breakfast of Champions,Kurt Vonnegut II,293,293,-
+Infinite Jest,David Foster Wallace II,294,294,-
+A Heartbreaking Work of Staggering Genius,Dave Eggers II,295,295,-
+On the Road,Jack Kerouac II,296,296,-
+Howl,Allen Ginsberg II,297,297,-
+Naked Lunch,William S. Burroughs II,298,298,-
+Fear and Loathing in Las Vegas,Hunter S. Thompson II,299,299,-
+The Catcher in the Rye,J.D. Salinger II,300,300,-
+Lord of the Flies,William Golding II,301,301,-
+A Clockwork Orange,Anthony Burgess II,302,302,-
+The Handmaid's Tale,Margaret Atwood II,303,303,-
+The Road,Cormac McCarthy II,304,304,-
+Blood Meridian,Cormac McCarthy II,305,305,-
+No Country for Old Men,Cormac McCarthy II,306,306,-
+Lonesome Dove,Larry McMurtry II,307,307,-
+The Shining,Stephen King II,308,308,-
+It,Stephen King II,309,309,-
+The Stand,Stephen King II,310,310,-
+Misery,Stephen King II,311,311,-
+The Green Mile,Stephen King II,312,312,-
+The Dark Tower I: The Gunslinger,Stephen King II,313,313,-
+Interview with the Vampire,Anne Rice II,314,314,-
+Dracula,Bram Stoker II,315,315,-
+Frankenstein,Mary Shelley II,316,316,-
+The Picture of Dorian Gray,Oscar Wilde II,317,317,-
+The Importance of Being Earnest,Oscar Wilde II,318,318,-
+Pride and Prejudice,Jane Austen II,319,319,-
+Sense and Sensibility,Jane Austen II,320,320,-
+Emma,Jane Austen II,321,321,-
+Jane Eyre,Charlotte Brontë II,322,322,-
+Wuthering Heights,Emily Brontë II,323,323,-
+Great Expectations,Charles Dickens II,324,324,-
+A Tale of Two Cities,Charles Dickens II,325,325,-
+Oliver Twist,Charles Dickens II,326,326,-
+David Copperfield,Charles Dickens II,327,327,-
+The Adventures of Sherlock Holmes,Arthur Conan Doyle II,328,328,-
+The Hound of the Baskervilles,Arthur Conan Doyle II,329,329,-
+And Then There Were None,Agatha Christie II,330,330,-
+The Murder of Roger Ackroyd,Agatha Christie II,331,331,-
+Murder on the Orient Express,Agatha Christie II,332,332,-
+Rebecca,Daphne du Maurier II,333,333,-
+The Woman in White,Wilkie Collins II,334,334,-
+The Moonstone,Wilkie Collins II,335,335,-
+Treasure Island,Robert Louis Stevenson II,336,336,-
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson II,337,337,-
+The War of the Worlds,H.G. Wells II,338,338,-
+The Time Machine,H.G. Wells II,339,339,-
+The Invisible Man,H.G. Wells II,340,340,-
+Journey to the Center of the Earth,Jules Verne II,341,341,-
+Twenty Thousand Leagues Under the Sea,Jules Verne II,342,342,-
+Around the World in Eighty Days,Jules Verne II,343,343,-
+The Three Musketeers,Alexandre Dumas II,344,344,-
+The Count of Monte Cristo,Alexandre Dumas II,345,345,-
+Les Misérables,Victor Hugo II,346,346,-
+The Hunchback of Notre-Dame,Victor Hugo II,347,347,-
+Candide,Voltaire II,348,348,-
+The Odyssey,Homer II,349,349,-
+The Iliad,Homer II,350,350,-
+The Aeneid,Virgil II,351,351,-
+The Divine Comedy,Dante Alighieri II,352,352,-
+Don Juan,Lord Byron II,353,353,-
+Paradise Lost,John Milton II,354,354,-
+The Canterbury Tales,Geoffrey Chaucer II,355,355,-
+Beowulf,Unknown II,356,356,-
+The Epic of Gilgamesh,Unknown II,357,357,-
+The Art of Racing in the Rain,Garth Stein II,358,358,-
+The Book Thief,Markus Zusak II,359,359,-
+The Kite Runner,Khaled Hosseini II,360,360,-
+A Thousand Splendid Suns,Khaled Hosseini II,361,361,-
+The Help,Kathryn Stockett II,362,362,-
+The Color Purple,Alice Walker II,363,363,-
+Beloved,Toni Morrison II,364,364,-
+The Bluest Eye,Toni Morrison II,365,365,-
+Their Eyes Were Watching God,Zora Neale Hurston II,366,366,-
+Go Tell It on the Mountain,James Baldwin II,367,367,-
+Invisible Man,Ralph Ellison II,368,368,-
+Native Son,Richard Wright II,369,369,-
+The Souls of Black Folk,W.E.B. Du Bois II,370,370,-
+Up from Slavery,Booker T. Washington II,371,371,-
+Narrative of the Life of Frederick Douglass,Frederick Douglass II,372,372,-
+Incidents in the Life of a Slave Girl,Harriet Jacobs II,373,373,-
+The New Jim Crow,Michelle Alexander II,374,374,-
+Between the World and Me,Ta-Nehisi Coates II,375,375,-
+Just Mercy,Bryan Stevenson II,376,376,-
+Hillbilly Elegy,J.D. Vance II,377,377,-
+The Glass Castle,Jeannette Walls II,378,378,-
+Wild,Cheryl Strayed II,379,379,-
+Into the Wild,Jon Krakauer II,380,380,-
+Into Thin Air,Jon Krakauer II,381,381,-
+Under the Banner of Heaven,Jon Krakauer II,382,382,-
+The Perfect Storm,Sebastian Junger II,383,383,-
+Seabiscuit,Laura Hillenbrand II,384,384,-
+Unbroken,Laura Hillenbrand II,385,385,-
+The Boys in the Boat,Daniel James Brown II,386,386,-
+The Devil in the White City,Erik Larson II,387,387,-
+The Splendid and the Vile,Erik Larson II,388,388,-
+Isaac's Storm,Erik Larson II,389,389,-
+Dead Wake,Erik Larson II,390,390,-
+In the Garden of Beasts,Erik Larson II,391,391,-
+The Sixth Extinction,Elizabeth Kolbert II,392,392,-
+The Emperor of All Maladies,Siddhartha Mukherjee II,393,393,-
+The Gene,Siddhartha Mukherjee II,394,394,-
+"Guns, Germs, and Steel",Jared Diamond II,395,395,-
+Collapse,Jared Diamond II,396,396,-
+The World Until Yesterday,Jared Diamond II,397,397,-
+The Right Stuff,Tom Wolfe II,398,398,-
+The Bonfire of the Vanities,Tom Wolfe II,399,399,-
+A Man in Full,Tom Wolfe II,400,400,-
+In Cold Blood,Truman Capote II,401,401,-
+Breakfast at Tiffany's,Truman Capote II,402,402,-
+Helter Skelter,Vincent Bugliosi II,403,403,-
+The Stranger Beside Me,Ann Rule II,404,404,-
+Mindhunter,John E. Douglas II,405,405,-
+I'll Be Gone in the Dark,Michelle McNamara II,406,406,-
+Killers of the Flower Moon,David Grann II,407,407,-
+The Lost City of Z,David Grann II,408,408,-
+The Wager,David Grann II,409,409,-
+Empire of Pain,Patrick Radden Keefe II,410,410,-
+Say Nothing,Patrick Radden Keefe II,411,411,-
+Bad Blood,John Carreyrou II,412,412,-
+Billion Dollar Whale,Tom Wright II,413,413,-
+The Smartest Guys in the Room,Bethany McLean II,414,414,-
+Barbarians at the Gate,Bryan Burrough II,415,415,-
+Liar's Poker,Michael Lewis II,416,416,-
+The Big Short,Michael Lewis II,417,417,-
+Moneyball,Michael Lewis II,418,418,-
+The Blind Side,Michael Lewis II,419,419,-
+Flash Boys,Michael Lewis II,420,420,-
+The Fifth Risk,Michael Lewis II,421,421,-
+The Premonition,Michael Lewis II,422,422,-
+Boomerang,Michael Lewis II,423,423,-
+When Genius Failed,Roger Lowenstein II,424,424,-
+Too Big to Fail,Andrew Ross Sorkin II,425,425,-
+Capital in the Twenty-First Century,Thomas Piketty II,426,426,-
+The Wealth of Nations,Adam Smith II,427,427,-
+"The General Theory of Employment, Interest and Money",John Maynard Keynes II,428,428,-
+The Road to Serfdom,Friedrich Hayek II,429,429,-
+Capitalism and Freedom,Milton Friedman II,430,430,-
+Free to Choose,Milton Friedman II,431,431,-
+The World Is Flat,Thomas L. Friedman II,432,432,-
+"Hot, Flat, and Crowded",Thomas L. Friedman II,433,433,-
+Thank You for Being Late,Thomas L. Friedman II,434,434,-
+The Lexus and the Olive Tree,Thomas L. Friedman II,435,435,-
+The End of History and the Last Man,Francis Fukuyama II,436,436,-
+The Clash of Civilizations and the Remaking of World Order,Samuel P. Huntington II,437,437,-
+Orientalism,Edward W. Said II,438,438,-
+A People's History of the United States,Howard Zinn II,439,439,-
+1491: New Revelations of the Americas Before Columbus,Charles C. Mann II,440,440,-
+1493: Uncovering the New World Columbus Created,Charles C. Mann II,441,441,-
+SPQR: A History of Ancient Rome,Mary Beard II,442,442,-
+Rubicon: The Last Years of the Roman Republic,Tom Holland II,443,443,-
+Persian Fire,Tom Holland II,444,444,-
+The History of the Peloponnesian War,Thucydides II,445,445,-
+The Histories,Herodotus II,446,446,-
+The Art of Fielding,Chad Harbach II,447,447,-
+Open,Andre Agassi II,448,448,-
+Shoe Dog,Phil Knight II,449,449,-
+Can't Hurt Me,David Goggins II,450,450,-
+Greenlights,Matthew McConaughey II,451,451,-
+Born a Crime,Trevor Noah II,452,452,-
+The Last Lecture,Randy Pausch II,453,453,-
+Tuesdays with Morrie,Mitch Albom II,454,454,-
+The Five People You Meet in Heaven,Mitch Albom II,455,455,-
+For One More Day,Mitch Albom II,456,456,-
+The Things They Carried,Tim O'Brien II,457,457,-
+All the Light We Cannot See,Anthony Doerr II,458,458,-
+The Nightingale,Kristin Hannah II,459,459,-
+The Four Winds,Kristin Hannah II,460,460,-
+Circe,Madeline Miller II,461,461,-
+The Song of Achilles,Madeline Miller II,462,462,-
+Where the Forest Meets the Stars,Glendy Vanderah II,463,463,-
+The Midnight Library,Matt Haig II,464,464,-
+Anxious People,Fredrik Backman II,465,465,-
+A Man Called Ove,Fredrik Backman II,466,466,-
+Beartown,Fredrik Backman II,467,467,-
+Eleanor Oliphant Is Completely Fine,Gail Honeyman II,468,468,-
+Me Before You,Jojo Moyes II,469,469,-
+The Giver of Stars,Jojo Moyes II,470,470,-
+Big Little Lies,Liane Moriarty II,471,471,-
+The Husband's Secret,Liane Moriarty II,472,472,-
+Nine Perfect Strangers,Liane Moriarty II,473,473,-
+Little Fires Everywhere,Celeste Ng II,474,474,-
+Everything I Never Told You,Celeste Ng II,475,475,-
+Americanah,Chimamanda Ngozi Adichie II,476,476,-
+We Should All Be Feminists,Chimamanda Ngozi Adichie II,477,477,-
+The Underground Railroad,Colson Whitehead II,478,478,-
+The Nickel Boys,Colson Whitehead II,479,479,-
+Homegoing,Yaa Gyasi II,480,480,-
+Transcendent Kingdom,Yaa Gyasi II,481,481,-
+The Vanishing Half,Brit Bennett II,482,482,-
+The Mothers,Brit Bennett II,483,483,-
+An American Marriage,Tayari Jones II,484,484,-
+The Water Dancer,Ta-Nehisi Coates II,485,485,-
+"Sing, Unburied, Sing",Jesmyn Ward II,486,486,-
+Salvage the Bones,Jesmyn Ward II,487,487,-
+Station Eleven,Emily St. John Mandel II,488,488,-
+The Glass Hotel,Emily St. John Mandel II,489,489,-
+Sea of Tranquility,Emily St. John Mandel II,490,490,-
+Cloud Cuckoo Land,Anthony Doerr II,491,491,-
+The Four Agreements,Don Miguel Ruiz II,493,493,-
+The Untethered Soul,Michael A. Singer II,494,494,-
+A New Earth,Eckhart Tolle II,495,495,-
+The Power of Now,Eckhart Tolle II,496,496,-
+The Body Keeps the Score,Bessel van der Kolk II,497,497,-
+Attached,Amir Levine II,498,498,-
+How Not to Die,Michael Greger II,499,499,-
+Why We Sleep,Matthew Walker II,500,500,-
+Breath: The New Science of a Lost Art,James Nestor II,501,501,-
+The Omnivore's Dilemma,Michael Pollan II,502,502,-
+In Defense of Food,Michael Pollan II,503,503,-
+Cooked,Michael Pollan II,504,504,-
+"Salt, Fat, Acid, Heat",Samin Nosrat II,505,505,-
+Mastering the Art of French Cooking,Julia Child II,506,506,-
+The Joy of Cooking,Irma S. Rombauer II,507,507,-
+On Food and Cooking,Harold McGee II,508,508,-
+The Food Lab,J. Kenji López-Alt II,509,509,-
+BraveTart,Stella Parks II,510,510,-
+The Flavor Bible,Karen A. Page II,511,511,-
+The Wine Bible,Karen MacNeil II,512,512,-
+Liquid Intelligence,Dave Arnold II,513,513,-
+The Bar Book,Jeffrey Morgenthaler II,514,514,-
+Death & Co,David Kaplan II,515,515,-
+How to Make Coffee,Lani Kingston II,516,516,-
+The World Atlas of Coffee,James Hoffmann II,517,517,-
+The Professional Pastry Chef,Bo Friberg II,518,518,-
+Tartine Bread,Chad Robertson II,519,519,-
+Flour Water Salt Yeast,Ken Forkish II,520,520,-
+My Pizza,Jim Lahey II,521,521,-
+The Pizza Bible,Tony Gemignani II,522,522,-
+Franklin Barbecue,Aaron Franklin II,523,523,-
+Meathead,Meathead Goldwyn II,524,524,-
+On Killing,Dave Grossman II,525,525,-
+Tribe,Sebastian Junger II,526,526,-
+War,Sebastian Junger II,527,527,-
+Gates of Fire,Steven Pressfield II,528,528,-
+The War of Art,Steven Pressfield II,529,529,-
+Turning Pro,Steven Pressfield II,530,530,-
+The Warrior Ethos,Steven Pressfield II,531,531,-
+Meditations on Violence,Rory Miller II,532,532,-
+Facing Violence,Rory Miller II,533,533,-
+The Gift of Fear,Gavin de Becker II,534,534,-
+The Unthinkable,Amanda Ripley II,535,535,-
+Surviving the Unthinkable,Tim Larkin II,536,536,-
+When Violence Is the Answer,Tim Larkin II,537,537,-
+The Way of Men,Jack Donovan II,538,538,-
+Becoming a Barbarian,Jack Donovan II,539,539,-
+A More Complete Beast,Jack Donovan II,540,540,-
+The Gulag Archipelago,Aleksandr Solzhenitsyn II,541,541,-
+Man's Rage for Chaos,Morse Peckham II,542,542,-
+The Red Queen,Matt Ridley II,543,543,-
+The Rational Optimist,Matt Ridley II,544,544,-
+The Evolution of Everything,Matt Ridley II,545,545,-
+Genome,Matt Ridley II,546,546,-
+How Innovation Works,Matt Ridley II,547,547,-
+The Blank Slate,Steven Pinker II,548,548,-
+The Better Angels of Our Nature,Steven Pinker II,549,549,-
+Enlightenment Now,Steven Pinker II,550,550,-
+The Language Instinct,Steven Pinker II,551,551,-
+How the Mind Works,Steven Pinker II,552,552,-
+Thinking in Pictures,Temple Grandin II,553,553,-
+The Man Who Mistook His Wife for a Hat,Oliver Sacks II,554,554,-
+Awakenings,Oliver Sacks II,555,555,-
+Musicophilia,Oliver Sacks II,556,556,-
+An Anthropologist on Mars,Oliver Sacks II,557,557,-
+"Gödel, Escher, Bach: an Eternal Golden Braid",Douglas R. Hofstadter II,558,558,-
+I Am a Strange Loop,Douglas R. Hofstadter II,559,559,-
+The Beginning of Infinity,David Deutsch II,560,560,-
+The Fabric of Reality,David Deutsch II,561,561,-
+The Structure of Scientific Revolutions,Thomas S. Kuhn II,562,562,-
+Against Method,Paul Feyerabend II,563,563,-
+The Logic of Scientific Discovery,Karl Popper II,564,564,-
+The Open Society and Its Enemies,Karl Popper II,565,565,-
+A History of Western Philosophy,Bertrand Russell II,566,566,-
+Why I Am Not a Christian,Bertrand Russell II,567,567,-
+The Conquest of Happiness,Bertrand Russell II,568,568,-
+In Praise of Idleness,Bertrand Russell II,569,569,-
+What I Believe,Bertrand Russell II,570,570,-
+The Story of Philosophy,Will Durant II,571,571,-
+The Lessons of History,Will & Ariel Durant II,572,572,-
+The Decline and Fall of the Roman Empire,Edward Gibbon II,573,573,-
+A Study of History,Arnold J. Toynbee II,574,574,-
+The Hero with a Thousand Faces,Joseph Campbell II,575,575,-
+The Power of Myth,Joseph Campbell II,576,576,-
+Iron John,Robert Bly II,577,577,-
+"King, Warrior, Magician, Lover",Robert Moore II,578,578,-
+Women Who Run with the Wolves,Clarissa Pinkola Estés II,579,579,-
+The Feminine Mystique,Betty Friedan II,580,580,-
+A Room of One's Own,Virginia Woolf II,581,581,-
+To the Lighthouse,Virginia Woolf II,582,582,-
+Mrs Dalloway,Virginia Woolf II,583,583,-
+The Second Sex,Simone de Beauvoir II,584,584,-
+The Bell Jar,Sylvia Plath II,585,585,-
+Ariel,Sylvia Plath II,586,586,-
+Oryx and Crake,Margaret Atwood II,588,588,-
+The Testaments,Margaret Atwood II,589,589,-
+Alias Grace,Margaret Atwood II,590,590,-
+Cat's Eye,Margaret Atwood II,591,591,-
+The Blind Assassin,Margaret Atwood II,592,592,-
+The Stone Angel,Margaret Laurence II,593,593,-
+A Jest of God,Margaret Laurence II,594,594,-
+The Diviners,Margaret Laurence II,595,595,-
+Fifth Business,Robertson Davies II,596,596,-
+The Manticore,Robertson Davies II,597,597,-
+World of Wonders,Robertson Davies II,598,598,-
+The Cunning Man,Robertson Davies II,599,599,-
+What's Bred in the Bone,Robertson Davies II,600,600,-
+The Rebel Angels,Robertson Davies II,601,601,-
+A Mixture of Frailties,Robertson Davies II,602,602,-
+Leaven of Malice,Robertson Davies II,603,603,-
+Tempest-Tost,Robertson Davies II,604,604,-
+Barney's Version,Mordecai Richler II,605,605,-
+The Apprenticeship of Duddy Kravitz,Mordecai Richler II,606,606,-
+St. Urbain's Horseman,Mordecai Richler II,607,607,-
+Solomon Gursky Was Here,Mordecai Richler II,608,608,-
+Joshua Then and Now,Mordecai Richler II,609,609,-
+The Incomparable Atuk,Mordecai Richler II,610,610,-
+A Fine Balance,Rohinton Mistry II,611,611,-
+Such a Long Journey,Rohinton Mistry II,612,612,-
+Family Matters,Rohinton Mistry II,613,613,-
+The God of Small Things,Arundhati Roy II,614,614,-
+The Ministry of Utmost Happiness,Arundhati Roy II,615,615,-
+Midnight's Children,Salman Rushdie II,616,616,-
+The Satanic Verses,Salman Rushdie II,617,617,-
+Shame,Salman Rushdie II,618,618,-
+The Moor's Last Sigh,Salman Rushdie II,619,619,-
+The Ground Beneath Her Feet,Salman Rushdie II,620,620,-
+Haroun and the Sea of Stories,Salman Rushdie II,621,621,-
+Luka and the Fire of Life,Salman Rushdie II,622,622,-
+Quichotte,Salman Rushdie II,623,623,-
+Victory City,Salman Rushdie II,624,624,-
+The White Tiger,Aravind Adiga II,625,625,-
+Amnesty,Aravind Adiga II,626,626,-
+Last Man in Tower,Aravind Adiga II,627,627,-
+Selection Day,Aravind Adiga II,628,628,-
+The Inheritance of Loss,Kiran Desai II,629,629,-
+Hullabaloo in the Guava Orchard,Kiran Desai II,630,630,-
+Interpreter of Maladies,Jhumpa Lahiri II,631,631,-
+The Namesake,Jhumpa Lahiri II,632,632,-
+The Lowland,Jhumpa Lahiri II,633,633,-
+Whereabouts,Jhumpa Lahiri II,634,634,-
+Unaccustomed Earth,Jhumpa Lahiri II,635,635,-
+A Suitable Boy,Vikram Seth II,636,636,-
+An Equal Music,Vikram Seth II,637,637,-
+The Golden Gate,Vikram Seth II,638,638,-
+A Bend in the River,V.S. Naipaul II,639,639,-
+A House for Mr Biswas,V.S. Naipaul II,640,640,-
+In a Free State,V.S. Naipaul II,641,641,-
+The Enigma of Arrival,V.S. Naipaul II,642,642,-
+Half a Life,V.S. Naipaul II,643,643,-
+The Mystic Masseur,V.S. Naipaul II,644,644,-
+Things Fall Apart,Chinua Achebe II,645,645,-
+No Longer at Ease,Chinua Achebe II,646,646,-
+Arrow of God,Chinua Achebe II,647,647,-
+A Man of the People,Chinua Achebe II,648,648,-
+Anthills of the Savannah,Chinua Achebe II,649,649,-
+Disgrace,J.M. Coetzee II,650,650,-
+Life & Times of Michael K,J.M. Coetzee II,651,651,-
+Waiting for the Barbarians,J.M. Coetzee II,652,652,-
+The Master of Petersburg,J.M. Coetzee II,653,653,-
+Foe,J.M. Coetzee II,654,654,-
+Dusklands,J.M. Coetzee II,655,655,-
+In the Heart of the Country,J.M. Coetzee II,656,656,-
+The Childhood of Jesus,J.M. Coetzee II,657,657,-
+The Schooldays of Jesus,J.M. Coetzee II,658,658,-
+The Death of Jesus,J.M. Coetzee II,659,659,-
+"Cry, the Beloved Country",Alan Paton II,660,660,-
+Long Walk to Freedom,Nelson Mandela II,661,661,-
+I Write What I Like,Steve Biko II,662,662,-
+Burger's Daughter,Nadine Gordimer II,663,663,-
+July's People,Nadine Gordimer II,664,664,-
+The Conservationist,Nadine Gordimer II,665,665,-
+The Pickup,Nadine Gordimer II,666,666,-
+Get a Life,Nadine Gordimer II,667,667,-
+The Lying Days,Nadine Gordimer II,668,668,-
+One Flew Over the Cuckoo's Nest,Ken Kesey II,669,669,-
+Sometimes a Great Notion,Ken Kesey II,670,670,-
+Catch-22,Joseph Heller II,671,671,-
+Something Happened,Joseph Heller II,672,672,-
+Good as Gold,Joseph Heller II,673,673,-
+Closing Time,Joseph Heller II,674,674,-
+Portnoy's Complaint,Philip Roth II,675,675,-
+American Pastoral,Philip Roth II,676,676,-
+The Human Stain,Philip Roth II,677,677,-
+The Plot Against America,Philip Roth II,678,678,-
+I Married a Communist,Philip Roth II,679,679,-
+Sabbath's Theater,Philip Roth II,680,680,-
+Operation Shylock,Philip Roth II,681,681,-
+The Counterlife,Philip Roth II,682,682,-
+The Ghost Writer,Philip Roth II,683,683,-
+"Goodbye, Columbus",Philip Roth II,684,684,-
+"Rabbit, Run",John Updike II,685,685,-
+Rabbit Redux,John Updike II,686,686,-
+Rabbit Is Rich,John Updike II,687,687,-
+Rabbit at Rest,John Updike II,688,688,-
+The Witches of Eastwick,John Updike II,689,689,-
+Couples,John Updike II,690,690,-
+A Confederacy of Dunces,John Kennedy Toole II,691,691,-
+The Moviegoer,Walker Percy II,692,692,-
+The Last Gentleman,Walker Percy II,693,693,-
+Love in the Ruins,Walker Percy II,694,694,-
+The Second Coming,Walker Percy II,695,695,-
+The Thanatos Syndrome,Walker Percy II,696,696,-
+All the King's Men,Robert Penn Warren II,697,697,-
+A Good Man Is Hard to Find,Flannery O'Connor II,698,698,-
+Wise Blood,Flannery O'Connor II,699,699,-
+The Violent Bear It Away,Flannery O'Connor II,700,700,-
+Everything That Rises Must Converge,Flannery O'Connor II,701,701,-
+The Heart Is a Lonely Hunter,Carson McCullers II,702,702,-
+The Member of the Wedding,Carson McCullers II,703,703,-
+The Ballad of the Sad Café,Carson McCullers II,704,704,-
+Reflections in a Golden Eye,Carson McCullers II,705,705,-
+"Other Voices, Other Rooms",Truman Capote II,706,706,-
+Music for Chameleons,Truman Capote II,707,707,-
+Answered Prayers,Truman Capote II,708,708,-
+A Christmas Memory,Truman Capote II,709,709,-
+The Grass Harp,Truman Capote II,710,710,-
+Go Set a Watchman,Harper Lee II,712,712,-
+The Secret History,Donna Tartt II,713,713,-
+The Little Friend,Donna Tartt II,714,714,-
+The Goldfinch,Donna Tartt II,715,715,-
+The Amazing Adventures of Kavalier & Clay,Michael Chabon II,716,716,-
+The Mysteries of Pittsburgh,Michael Chabon II,717,717,-
+Wonder Boys,Michael Chabon II,718,718,-
+The Yiddish Policemen's Union,Michael Chabon II,719,719,-
+Telegraph Avenue,Michael Chabon II,720,720,-
+Moonglow,Michael Chabon II,721,721,-
+The Corrections,Jonathan Franzen II,722,722,-
+Freedom,Jonathan Franzen II,723,723,-
+Purity,Jonathan Franzen II,724,724,-
+Crossroads,Jonathan Franzen II,725,725,-
+White Teeth,Zadie Smith II,726,726,-
+On Beauty,Zadie Smith II,727,727,-
+NW,Zadie Smith II,728,728,-
+Swing Time,Zadie Smith II,729,729,-
+The Autograph Man,Zadie Smith II,730,730,-
+A Visit from the Goon Squad,Jennifer Egan II,731,731,-
+The Candy House,Jennifer Egan II,732,732,-
+Manhattan Beach,Jennifer Egan II,733,733,-
+The Keep,Jennifer Egan II,734,734,-
+Look at Me,Jennifer Egan II,735,735,-
+Middlesex,Jeffrey Eugenides II,736,736,-
+The Virgin Suicides,Jeffrey Eugenides II,737,737,-
+The Marriage Plot,Jeffrey Eugenides II,738,738,-
+Bel Canto,Ann Patchett II,739,739,-
+The Dutch House,Ann Patchett II,740,740,-
+Commonwealth,Ann Patchett II,741,741,-
+State of Wonder,Ann Patchett II,742,742,-
+The Magician's Assistant,Ann Patchett II,743,743,-
+Run,Ann Patchett II,744,744,-
+This Is the Story of a Happy Marriage,Ann Patchett II,745,745,-
+The Patron Saint of Liars,Ann Patchett II,746,746,-
+Taft,Ann Patchett II,747,747,-
+The Hours,Michael Cunningham II,748,748,-
+A Home at the End of the World,Michael Cunningham II,749,749,-
+Flesh and Blood,Michael Cunningham II,750,750,-
+The Snow Queen,Michael Cunningham II,751,751,-
+By Nightfall,Michael Cunningham II,752,752,-
+Specimen Days,Michael Cunningham II,753,753,-
+The Broom of the System,David Foster Wallace II,754,754,-
+Brief Interviews with Hideous Men,David Foster Wallace II,755,755,-
+Consider the Lobster,David Foster Wallace II,756,756,-
+A Supposedly Fun Thing I'll Never Do Again,David Foster Wallace II,757,757,-
+Girl with Curious Hair,David Foster Wallace II,758,758,-
+The Pale King,David Foster Wallace II,759,759,-
+Pastoralia,George Saunders II,760,760,-
+Tenth of December,George Saunders II,761,761,-
+Lincoln in the Bardo,George Saunders II,762,762,-
+CivilWarLand in Bad Decline,George Saunders II,763,763,-
+In Persuasion Nation,George Saunders II,764,764,-
+A Swim in a Pond in the Rain,George Saunders II,765,765,-
+Less,Andrew Sean Greer II,766,766,-
+The Confessions of Max Tivoli,Andrew Sean Greer II,767,767,-
+The Story of a Marriage,Andrew Sean Greer II,768,768,-
+The Path of Minor Planets,Andrew Sean Greer II,769,769,-
+Olive Kitteridge,Elizabeth Strout II,770,770,-
+"Olive, Again",Elizabeth Strout II,771,771,-
+My Name Is Lucy Barton,Elizabeth Strout II,772,772,-
+Oh William!,Elizabeth Strout II,773,773,-
+Amy and Isabelle,Elizabeth Strout II,774,774,-
+The Burgess Boys,Elizabeth Strout II,775,775,-
+Abide with Me,Elizabeth Strout II,776,776,-
+Anything Is Possible,Elizabeth Strout II,777,777,-
+A Gentleman in Moscow,Amor Towles II,778,778,-
+Rules of Civility,Amor Towles II,779,779,-
+The Lincoln Highway,Amor Towles II,780,780,-
+The Great Alone,Kristin Hannah II,782,782,-
+Winter Garden,Kristin Hannah II,784,784,-
+Firefly Lane,Kristin Hannah II,785,785,-
+Night Road,Kristin Hannah II,786,786,-
+Magic Hour,Kristin Hannah II,787,787,-
+The Things We Do for Love,Kristin Hannah II,788,788,-
+Home Front,Kristin Hannah II,789,789,-
+The Guest List,Lucy Fokley II,790,790,-
+The Paris Apartment,Lucy Fokley II,791,791,-
+The Hunting Party,Lucy Fokley II,792,792,-
+The Sanatorium,Sarah Pearse II,793,793,-
+The Retreat,Sarah Pearse II,794,794,-
+The Last Thing He Told Me,Laura Dave II,795,795,-
+The Push,Ashley Audrain II,796,796,-
+The Maid,Nita Prose II,797,797,-
+The Plot,Jean Hanff Korelitz II,798,798,-
+You Should Have Known,Jean Hanff Korelitz II,799,799,-
+The Plotters,Un-su Kim II,800,800,-
+The Decagon House Murders,Yukito Ayatsuji II,801,801,-
+Malice,Keigo Higashino II,802,802,-
+The Devotion of Suspect X,Keigo Higashino II,803,803,-
+Salvation of a Saint,Keigo Higashino II,804,804,-
+Newcomer,Keigo Higashino II,805,805,-
+A Midsummer's Equation,Keigo Higashino II,806,806,-
+Journey Under the Midnight Sun,Keigo Higashino II,807,807,-
+The Miracles of the Namiya General Store,Keigo Higashino II,808,808,-
+Confessions,Kanae Minato II,809,809,-
+Penance,Kanae Minato II,810,810,-
+The Girl on the Train,Paula Hawkins II,811,811,-
+Into the Water,Paula Hawkins II,812,812,-
+A Slow Fire Burning,Paula Hawkins II,813,813,-
+The Woman in Cabin 10,Ruth Ware II,814,814,-
+"In a Dark, Dark Wood",Ruth Ware II,815,815,-
+The Lying Game,Ruth Ware II,816,816,-
+The Turn of the Key,Ruth Ware II,817,817,-
+One by One,Ruth Ware II,818,818,-
+The It Girl,Ruth Ware II,819,819,-
+The Maidens,Alex Michaelides II,821,821,-
+Rock Paper Scissors,Alice Feeney II,822,822,-
+His & Hers,Alice Feeney II,823,823,-
+Sometimes I Lie,Alice Feeney II,824,824,-
+I Know Who You Are,Alice Feeney II,825,825,-
+Daisy Darker,Alice Feeney II,826,826,-
+The Housemaid,Freida McFadden II,827,827,-
+The Inmate,Freida McFadden II,828,828,-
+The Locked Door,Freida McFadden II,829,829,-
+Never Lie,Freida McFadden II,830,830,-
+The Perfect Son,Freida McFadden II,831,831,-
+The Coworker,Freida McFadden II,832,832,-
+The Teacher,Freida McFadden II,833,833,-
+One of Us Is Lying,Karen M. McManus II,834,834,-
+One of Us Is Next,Karen M. McManus II,835,835,-
+Two Can Keep a Secret,Karen M. McManus II,836,836,-
+The Cousins,Karen M. McManus II,837,837,-
+You'll Be the Death of Me,Karen M. McManus II,838,838,-
+A Good Girl's Guide to Murder,Holly Jackson II,839,839,-
+"Good Girl, Bad Blood",Holly Jackson II,840,840,-
+As Good as Dead,Holly Jackson II,841,841,-
+The Inheritance Games,Jennifer Lynn Barnes II,842,842,-
+The Hawthorne Legacy,Jennifer Lynn Barnes II,843,843,-
+The Final Gambit,Jennifer Lynn Barnes II,844,844,-
+A Court of Thorns and Roses,Sarah J. Maas II,845,845,-
+A Court of Mist and Fury,Sarah J. Maas II,846,846,-
+A Court of Wings and Ruin,Sarah J. Maas II,847,847,-
+A Court of Frost and Starlight,Sarah J. Maas II,848,848,-
+A Court of Silver Flames,Sarah J. Maas II,849,849,-
+Throne of Glass,Sarah J. Maas II,850,850,-
+Crown of Midnight,Sarah J. Maas II,851,851,-
+Heir of Fire,Sarah J. Maas II,852,852,-
+Queen of Shadows,Sarah J. Maas II,853,853,-
+Empire of Storms,Sarah J. Maas II,854,854,-
+Tower of Dawn,Sarah J. Maas II,855,855,-
+Kingdom of Ash,Sarah J. Maas II,856,856,-
+Crescent City: House of Earth and Blood,Sarah J. Maas II,857,857,-
+Crescent City: House of Sky and Breath,Sarah J. Maas II,858,858,-
+From Blood and Ash,Jennifer L. Armentrout II,859,859,-
+A Kingdom of Flesh and Fire,Jennifer L. Armentrout II,860,860,-
+The Crown of Gilded Bones,Jennifer L. Armentrout II,861,861,-
+The War of Two Queens,Jennifer L. Armentrout II,862,862,-
+Shadow and Bone,Leigh Bardugo II,863,863,-
+Siege and Storm,Leigh Bardugo II,864,864,-
+Ruin and Rising,Leigh Bardugo II,865,865,-
+Six of Crows,Leigh Bardugo II,866,866,-
+Crooked Kingdom,Leigh Bardugo II,867,867,-
+King of Scars,Leigh Bardugo II,868,868,-
+Rule of Wolves,Leigh Bardugo II,869,869,-
+The Cruel Prince,Holly Black II,870,870,-
+The Wicked King,Holly Black II,871,871,-
+The Queen of Nothing,Holly Black II,872,872,-
+The Folk of the Air,Holly Black II,873,873,-
+Red Queen,Victoria Aveyard II,874,874,-
+Glass Sword,Victoria Aveyard II,875,875,-
+King's Cage,Victoria Aveyard II,876,876,-
+War Storm,Victoria Aveyard II,877,877,-
+Realm Breaker,Victoria Aveyard II,878,878,-
+Blade Breaker,Victoria Aveyard II,879,879,-
+An Ember in the Ashes,Sabaa Tahir II,880,880,-
+A Torch Against the Night,Sabaa Tahir II,881,881,-
+A Reaper at the Gates,Sabaa Tahir II,882,882,-
+A Sky Beyond the Storm,Sabaa Tahir II,883,883,-
+All the Stars and Teeth,Adalyn Grace II,884,884,-
+All the Tides of Fate,Adalyn Grace II,885,885,-
+Serpent & Dove,Shelby Mahurin II,886,886,-
+Blood & Honey,Shelby Mahurin II,887,887,-
+Gods & Monsters,Shelby Mahurin II,888,888,-
+The Bridge Kingdom,Danielle L. Jensen II,889,889,-
+The Traitor Queen,Danielle L. Jensen II,890,890,-
+The Inadequate Heir,Danielle L. Jensen II,891,891,-
+Fourth Wing,Rebecca Yarros II,892,892,-
+Iron Flame,Rebecca Yarros II,893,893,-
+The Priory of the Orange Tree,Samantha Shannon II,894,894,-
+A Day of Fallen Night,Samantha Shannon II,895,895,-
+The Bone Season,Samantha Shannon II,896,896,-
+The Mime Order,Samantha Shannon II,897,897,-
+The Song Rising,Samantha Shannon II,898,898,-
+The Mask Falling,Samantha Shannon II,899,899,-
+Gideon the Ninth,Tamsyn Muir II,900,900,-
+Harrow the Ninth,Tamsyn Muir II,901,901,-
+Nona the Ninth,Tamsyn Muir II,902,902,-
+A Deadly Education,Naomi Novik II,903,903,-
+The Last Graduate,Naomi Novik II,904,904,-
+The Golden Enclaves,Naomi Novik II,905,905,-
+Uprooted,Naomi Novik II,906,906,-
+Spinning Silver,Naomi Novik II,907,907,-
+The Name of the Wind,Patrick Rothfuss II,908,908,-
+The Wise Man's Fear,Patrick Rothfuss II,909,909,-
+The Slow Regard of Silent Things,Patrick Rothfuss II,910,910,-
+The Final Empire,Brandon Sanderson II,911,911,-
+The Well of Ascension,Brandon Sanderson II,912,912,-
+The Hero of Ages,Brandon Sanderson II,913,913,-
+The Way of Kings,Brandon Sanderson II,914,914,-
+Words of Radiance,Brandon Sanderson II,915,915,-
+Oathbringer,Brandon Sanderson II,916,916,-
+Rhythm of War,Brandon Sanderson II,917,917,-
+Warbreaker,Brandon Sanderson II,918,918,-
+Elantris,Brandon Sanderson II,919,919,-
+The Alloy of Law,Brandon Sanderson II,920,920,-
+Shadows of Self,Brandon Sanderson II,921,921,-
+The Bands of Mourning,Brandon Sanderson II,922,922,-
+Tress of the Emerald Sea,Brandon Sanderson II,923,923,-
+Yumi and the Nightmare Painter,Brandon Sanderson II,924,924,-
+The Sunlit Man,Brandon Sanderson II,925,925,-
+Frugal Wizard's Handbook for Surviving Medieval England,Brandon Sanderson II,926,926,-
+Skyward,Brandon Sanderson II,927,927,-
+Starsight,Brandon Sanderson II,928,928,-
+Cytonic,Brandon Sanderson II,929,929,-
+Steelheart,Brandon Sanderson II,930,930,-
+Firefight,Brandon Sanderson II,931,931,-
+Calamity,Brandon Sanderson II,932,932,-
+The Rithmatist,Brandon Sanderson II,933,933,-
+Legion: The Many Lives of Stephen Leeds,Brandon Sanderson II,934,934,-
+The Emperor's Soul,Brandon Sanderson II,935,935,-
+Mistborn: Secret History,Brandon Sanderson II,936,936,-
+Arcanum Unbounded,Brandon Sanderson II,937,937,-
+The Eye of the World,Robert Jordan II,938,938,-
+The Great Hunt,Robert Jordan II,939,939,-
+The Dragon Reborn,Robert Jordan II,940,940,-
+The Shadow Rising,Robert Jordan II,941,941,-
+The Fires of Heaven,Robert Jordan II,942,942,-
+Lord of Chaos,Robert Jordan II,943,943,-
+A Crown of Swords,Robert Jordan II,944,944,-
+The Path of Daggers,Robert Jordan II,945,945,-
+Winter's Heart,Robert Jordan II,946,946,-
+Crossroads of Twilight,Robert Jordan II,947,947,-
+Knife of Dreams,Robert Jordan II,948,948,-
+The Gathering Storm,Robert Jordan & Brandon Sanderson II,949,949,-
+Towers of Midnight,Robert Jordan & Brandon Sanderson II,950,950,-
+A Memory of Light,Robert Jordan & Brandon Sanderson II,951,951,-
+New Spring,Robert Jordan II,952,952,-
+Gardens of the Moon,Steven Erikson II,953,953,-
+Deadhouse Gates,Steven Erikson II,954,954,-
+Memories of Ice,Steven Erikson II,955,955,-
+House of Chains,Steven Erikson II,956,956,-
+Midnight Tides,Steven Erikson II,957,957,-
+The Bonehunters,Steven Erikson II,958,958,-
+Reaper's Gale,Steven Erikson II,959,959,-
+Toll the Hounds,Steven Erikson II,960,960,-
+Dust of Dreams,Steven Erikson II,961,961,-
+The Crippled God,Steven Erikson II,962,962,-
+The Blade Itself,Joe Abercrombie II,963,963,-
+Before They Are Hanged,Joe Abercrombie II,964,964,-
+Last Argument of Kings,Joe Abercrombie II,965,965,-
+Best Served Cold,Joe Abercrombie II,966,966,-
+The Heroes,Joe Abercrombie II,967,967,-
+Red Country,Joe Abercrombie II,968,968,-
+A Little Hatred,Joe Abercrombie II,969,969,-
+The Trouble With Peace,Joe Abercrombie II,970,970,-
+The Wisdom of Crowds,Joe Abercrombie II,971,971,-
+The Lies of Locke Lamora,Scott Lynch II,972,972,-
+Red Seas Under Red Skies,Scott Lynch II,973,973,-
+The Republic of Thieves,Scott Lynch II,974,974,-
+The Blacktongue Thief,Christopher Buehlman II,975,975,-
+Between Two Fires,Christopher Buehlman II,976,976,-
+The Poppy War,R.F. Kuang II,977,977,-
+The Dragon Republic,R.F. Kuang II,978,978,-
+The Burning God,R.F. Kuang II,979,979,-
+Babel,R.F. Kuang II,980,980,-
+Jonathan Strange & Mr Norrell,Susanna Clarke II,981,981,-
+Piranesi,Susanna Clarke II,982,982,-
+The City & The City,China Miéville II,983,983,-
+Perdido Street Station,China Miéville II,984,984,-
+The Scar,China Miéville II,985,985,-
+Iron Council,China Miéville II,986,986,-
+Kraken,China Miéville II,987,987,-
+Embassytown,China Miéville II,988,988,-
+The Fifth Season,N.K. Jemisin II,989,989,-
+The Obelisk Gate,N.K. Jemisin II,990,990,-
+The Stone Sky,N.K. Jemisin II,991,991,-
+The Hundred Thousand Kingdoms,N.K. Jemisin II,992,992,-
+The Broken Kingdoms,N.K. Jemisin II,993,993,-
+The Kingdom of Gods,N.K. Jemisin II,994,994,-
+The City We Became,N.K. Jemisin II,995,995,-
+How Long 'til Black Future Month?,N.K. Jemisin II,996,996,-
+Ancillary Justice,Ann Leckie II,997,997,-
+Ancillary Sword,Ann Leckie II,998,998,-
+Ancillary Mercy,Ann Leckie II,999,999,-
+A Memory Called Empire,Arkady Martine II,1000,1000,-

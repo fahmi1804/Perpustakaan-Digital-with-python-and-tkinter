@@ -177,7 +177,7 @@ class App(tk.Tk):
     def __init__(self):
         super().__init__()
         self.perpus = Perpustakaan()
-        self.title("PERPUSTAKAAN SMA TOHAKU")
+        self.title("PERPUSTAKAAN DIGITAL")
         self.geometry("1250x720")
         
         style = ttk.Style()
@@ -243,6 +243,13 @@ class App(tk.Tk):
         for w in self.content.winfo_children(): w.destroy()
 
     # --- PAGE 1: DASHBOARD ---
+    
+
+    def card(self, p, t, v, c):
+        f = ttk.Frame(p, borderwidth=1, relief="solid", padding=15)
+        f.grid(row=0, column=c, padx=10, sticky="ew"); p.columnconfigure(c, weight=1)
+        ttk.Label(f, text=t).pack(anchor='w')
+        
     def page_dash(self):
         self.clear_content()
         ttk.Label(self.content, text="Dashboard", font=("Segoe UI", 20, "bold")).pack(anchor='w', pady=(0,20))
@@ -253,11 +260,6 @@ class App(tk.Tk):
         
         self.card(cards, "Total Koleksi", str(len(b)), 0)
         self.card(cards, "Dipinjam", str(len(p)), 1)
-
-    def card(self, p, t, v, c):
-        f = ttk.Frame(p, borderwidth=1, relief="solid", padding=15)
-        f.grid(row=0, column=c, padx=10, sticky="ew"); p.columnconfigure(c, weight=1)
-        ttk.Label(f, text=t).pack(anchor='w')
         ttk.Label(f, text=v, font=("Segoe UI", 24, "bold")).pack(anchor='w')
 
     # --- PAGE 2: BUKU ---
@@ -350,7 +352,7 @@ class App(tk.Tk):
     # --- PAGE 5: LAPORAN ---
     def page_lapor(self):
         self.clear_content()
-        ttk.Label(self.content, text="Pusat Laporan (Auto-Open .docx)", font=("Segoe UI", 16, "bold")).pack(pady=20)
+        ttk.Label(self.content, text="Pusat Laporan", font=("Segoe UI", 16, "bold")).pack(pady=20)
         
         f = ttk.Frame(self.content); f.pack(fill='both', expand=True)
         ttk.Button(f, text="📄 Cetak Stok Buku (Hari Ini)", command=lambda: self.cetak_laporan("stok")).pack(fill='x', pady=5)
@@ -743,11 +745,11 @@ class App(tk.Tk):
                         f"Akan jatuh tempo dalam {sisa} hari lagi.\n"
                         f"Mohon untuk segera mengembalikan atau memperpanjang masa peminjaman.\n\n"
                         f"Terima kasih,\n"
-                        f"Staf Perpustakaan SMA TOHAKU\n"
+                        f"Staf Perpustakaan Digital\n"
                     )
                     
                     msg = MIMEText(msg_body)
-                    msg['Subject'] = "Pengingat Pengembalian Buku Perpustakaan SMA Tohaku"
+                    msg['Subject'] = "Pengingat Pengembalian Buku Perpustakaan Digital"
                     msg['From'] = sender
                     msg['To'] = p.mhs.email
                     

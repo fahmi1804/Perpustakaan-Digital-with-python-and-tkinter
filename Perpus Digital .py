@@ -258,9 +258,11 @@ class App(tk.Tk):
         cards = ttk.Frame(self.content); cards.pack(fill='x', pady=10)
         b = self.perpus.get_buku()
         p = [x for x in self.perpus.get_pinjam() if x.status == "Dipinjam"]
+        m = self.perpus.get_mhs()
         
         self.card(cards, "Total Koleksi", str(len(b)), 0)
         self.card(cards, "Dipinjam", str(len(p)), 1)
+        self.card(cards, "Jumlah Mahasiswa", str(len(m)),2)
 
     def card(self, p, t, v, c):
         f = ttk.Frame(p, borderwidth=1, relief="solid", padding=15)

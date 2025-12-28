@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Perpustakaan Digital Terintegrasi Berbasis Python dan Tkinter
 
 Repository ini berisi implementasi **Sistem Informasi Perpustakaan Digital** berbasis **Python** dengan antarmuka grafis **Tkinter**, yang dirancang menggunakan pendekatan **struktur data Linked List** serta penyimpanan data non-relasional berbasis file. Sistem ini dikembangkan sebagai proyek akademik untuk mendukung penelitian dan pembelajaran pada bidang **algoritma, struktur data, dan sistem informasi**.
@@ -138,4 +137,3 @@ atau juga bisa dengan mengklik 2 kali aplikasinya
 =======
 ﻿# Perpustakaan-Digital-with-python-and-tkinter
 
->>>>>>> 735f5c94ffa3f00580ebaa38fec2d9d5b9a03f82

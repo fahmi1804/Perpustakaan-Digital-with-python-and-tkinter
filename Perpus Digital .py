@@ -669,7 +669,7 @@ class App(tk.Tk):
                 sisa = (p.tgl_tempo - date.today()).days
                 msg = (f"Halo {p.mhs.nama}, Buku '{p.buku.judul}' jatuh tempo dalam {sisa} hari.\n "
                        f"Mohon segera dikembalikan atau diperpanjang. Terima kasih.\n"
-                       f"-Perpusakaan SMA TOHAKU\n")
+                       f"-Perpusakaan Digital\n")
                 
                 print(f"--> Memproses WA ke: {p.mhs.nama} ({no})")
                 
@@ -933,7 +933,8 @@ class App(tk.Tk):
                     if len(row)>=5:
                         b = self.perpus.cari_buku(row[0]); m = self.perpus.cari_mhs(row[1])
                         if b and m: 
-                            p = NodePinjam(b, m, row[2], row[3], row[4], row[5], row[6])
+                            p = NodePinjam(b, m
+                                           , row[2], row[3], row[4], row[5], row[6])
                             self.perpus.tambah_pinjam(p)
 
     def on_close(self):

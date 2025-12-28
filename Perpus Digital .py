@@ -288,7 +288,7 @@ class App(tk.Tk):
         cols = ("Judul", "Penulis", "Stok", "Sedia", "Rak")
         tree = ttk.Treeview(self.content, columns=cols, show="headings")
         for c in cols: tree.heading(c, text=c)
-        tree.pack(fill='both', expand=True)
+        tree.pack(fill='both', expand=True) 
         
         m = tk.Menu(self, tearoff=0)
         # --- BARIS BARU DITAMBAHKAN DI SINI ---
